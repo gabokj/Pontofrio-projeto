@@ -264,9 +264,8 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                         <img src="img/favicon.png" alt="ponto Logo">
                     </div>
                     <div class="tagline-box">
-                        Cupons<br>
-                        Exclusivos<br>
-                        Para Você!<br>
+                        Funcionário da Ponto<br>
+                        Tem Mais Vantagens!<br>
                     </div>
                 </div>
             </div>
