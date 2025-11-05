@@ -274,8 +274,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                     </div>
                     <div class="tagline-box">
                         Seja<br>
-                        Um Cliente<br>
-                        PontoFrio<br>
+                        Pontofrio !<br>
                     </div>
                 </div>
             </div>
@@ -285,7 +284,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
             <div class="login-form-card">
                 <div class="form-header">
                     <h2>Cadastro</h2>
-                    <p>Venha fazer parte da pontofrio e ganhe descontos especiais!</p>
+                    <p>Venha fazer parte da equipe que mais cresce no Brasil!</p>
                 </div>
 
                 <form action="#" method="POST">
